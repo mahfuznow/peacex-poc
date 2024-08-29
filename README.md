@@ -1,5 +1,3 @@
-# marwen_sarraj_resume
-
 A new Flutter application.
 
 ## Getting Started
