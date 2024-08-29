@@ -1,0 +1,7 @@
+organization=mahfuznow
+projectKey=mahfuznow_peacex-poc
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.56336
+dashboardUrl=https://sonarcloud.io/dashboard?id=mahfuznow_peacex-poc
+ceTaskId=AZGdpo-4_mc37gzttw8l
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZGdpo-4_mc37gzttw8l
